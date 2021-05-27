@@ -1,7 +1,7 @@
 # INSC592 Projects
 
 ## Citation_Analysis:
-This project had us find a luminary in our field of research and analyze his citations
+This project had us find a luminary in our field of research and analyze his citations.
 
 ## Sentiment_Analysis:
 We were given a dataset of customer reviews and had to perform sentiment analysis.
